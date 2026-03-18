@@ -9,6 +9,7 @@
     <Description>Nuget con jugadores XML Assembly</Description>
     <PackageIcon>user.png</PackageIcon>
     <PackageTags>players,jugadores,pgs,champions,miercoles</PackageTags>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
