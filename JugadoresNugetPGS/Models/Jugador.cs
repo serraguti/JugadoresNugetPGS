@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace JugadoresNugetPGS.Models
+{
+    public class Jugador
+    {
+        public int Numero { get; set; }
+        public string Nombre { get; set; }
+        public string Posicion { get; set; }
+        public int Edad { get; set; }
+        public string Imagen { get; set; }
+    }
+}
